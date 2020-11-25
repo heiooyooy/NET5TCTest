@@ -1,0 +1,17 @@
+*.cache
+*.dotCover
+*.user
+*.sdf
+*.suo
+*.metaproj
+*.metaproj.tmp
+_ReSharper*
+.vs
+
+lib/
+packages/
+bin/
+obj/
+EntityFramework/EntityFramework/blogging.db-shm
+EntityFramework/EntityFramework/blogging.db-wal
+WebApi/WebApi/Properties/PublishProfiles/IISProfile.pubxml
